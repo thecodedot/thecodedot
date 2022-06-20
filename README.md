@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Food Recommendation System Using AI, ML**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python, CyberSecurity**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
